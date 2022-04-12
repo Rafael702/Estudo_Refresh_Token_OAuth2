@@ -41,5 +41,7 @@ Para quê serve o Refresh Token?
 > Link: https://www.treinaweb.com.br/blog/fluxo-de-autenticacao-baseado-em-jwt
 
 
-Obs: Este Projeto Foi desenvolvido com base no curso da AlgaWorks e outras pesquisas. Recomendo o curso: Especialista
-Spring Rest (ESR)
+
+Obs: Este Projeto Foi desenvolvido com base no curso da AlgaWorks e outras pesquisas.
+
+Recomendo o curso: Especialista Spring Rest (ESR)

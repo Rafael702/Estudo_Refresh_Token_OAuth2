@@ -3,12 +3,21 @@
 >Neste repositório consta os meus estudos sobre o refresh token com o oauth2.
 > 
 
-Dependencia:
+Dependência:
 
 ```maven
 <dependency>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
+<version>2.3.7.RELEASE</version>
+</dependency>
+```
+
+Recomendações de Dependências:
+```maven
+<dependency>
+<groupId>com.nimbusds</groupId>
+<artifactId>oauth2-oidc-sdk</artifactId>
 <version>6.21.2</version>
 </dependency>
 ```
